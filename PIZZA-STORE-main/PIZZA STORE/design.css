@@ -1,0 +1,17 @@
+img{
+    width: 100px;
+    
+}
+
+#pizzas{
+    width: 90%;
+    margin: 0 auto;
+}
+
+#cart{
+    width: 90%;
+    height: 40vh;
+    border: 1px solid grey;
+    border-radius: 8px;
+    padding: 20px;
+}
